@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Edit teaching in _teaching md"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
