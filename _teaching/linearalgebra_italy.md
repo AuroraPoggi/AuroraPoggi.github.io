@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/linearalgebra_italy
 venue: "University of Verona, Department of Mathematics"
-date: "Spring 2021"
+date: 2021-01-15
 location: "Verona, Italy"
 ---
 
