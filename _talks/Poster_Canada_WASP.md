@@ -2,7 +2,7 @@
 title: "Random Matrix Theory for Stochastic Gradient Descent"
 collection: talks
 type: "Poster"
-permalink: /talks/Poster_Canada_WASP.md
+permalink: /talks/Poster_Canada_WASP
 venue: "MILA "
 date: 2023-09-25
 location: "Montreal, Canada"
