@@ -1,6 +1,7 @@
 ---
 title: "Electricity Price Forecasting via statistical and deep learning approaches: the German case"
 collection: publications
+# category: conferences
 category: manuscripts
 permalink: /publication/2023-04-03-paper-electricitypriceforecasting-number-1
 excerpt: 'This paper is an analysis of the latest models used for electricity price forecasting, which include both traditional inferential statistical methods and newer deep learning techniques.'
