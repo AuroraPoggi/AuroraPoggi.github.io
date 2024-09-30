@@ -7,3 +7,5 @@ venue: "Digital Futures"
 date: 2024-05-20
 location: "Stockholm, Sweden"
 ---
+
+A month research period in Stockholm, [more info at](https://www.kth.se/sciml). 
