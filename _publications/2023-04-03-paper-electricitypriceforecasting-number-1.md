@@ -7,8 +7,8 @@ permalink: /publication/2023-04-03-paper-electricitypriceforecasting-number-1
 excerpt: 'This paper is an analysis of the latest models used for electricity price forecasting, which include both traditional inferential statistical methods and newer deep learning techniques.'
 date: 2023-04-03
 venue: 'MDPI, AppliedMath '
-# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/appliedmath-03-00018.pdf'
+# slidesurl: 'http://aurorapoggi.github.io/files/slides2.pdf'
+paperurl: 'http://aurorapoggi.github.io/files/appliedmath-03-00018.pdf'
 citation: 'Poggi, A., Di Persio, L., & Ehrhardt, M. (2023). Electricity price forecasting via statistical and deep learning approaches: The german case. AppliedMath, 3(2), 316-342.'
 ---
 
