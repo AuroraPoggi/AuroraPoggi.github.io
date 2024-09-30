@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<h3> I'm Aurora Poggi. </h3>
+<h3> I'm Aurora Poggi, </h3>
 
-I am a PhD student in Applied Mathematics at KTH Royal Institute of Technology in Stockholm, Sweden. 
+a PhD student in Applied Mathematics at KTH Royal Institute of Technology in Stockholm, Sweden. 
 
 My research focuses on Inverse Problem, Probability and Dynamical Systems. 
 
