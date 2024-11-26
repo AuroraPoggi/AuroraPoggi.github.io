@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "aurora_propic.jpg"
   name             : "Aurora Poggi"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "PhD Student in Applied Mathematics"
   location         : "Stockholm, Sweden"
   employer         : "KTH"

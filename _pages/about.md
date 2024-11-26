@@ -11,4 +11,4 @@ redirect_from:
 
 a PhD student in Applied Mathematics at KTH Royal Institute of Technology in Stockholm, Sweden. 
 
-My research focuses on Inverse Problem, Probability and Dynamical Systems. 
+My research focuses on Inverse Problem, High Dimensional Probability and Dynamical Systems. 
