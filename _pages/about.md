@@ -15,7 +15,7 @@ My research focuses on Inverse Problem, High Dimensional Probability and Dynamic
 </p>
 
 <p>
-My studies started in 2017, attending the Bachelor Degree of <strong>Applied Mathematics</strong> with a curriculum in <strong>Economics and Finance</strong> at <a>Università degli studi di Verona</a>, concluded with a thesis entitled <em>Deterministic and stochastic models for opinion making</em> with Professor <strong><a href="https://www.di.univr.it/?ent=persona&id=11481">Paolo Dai Pra</a></strong>.
+My studies started in 2017, attending the Bachelor Degree of <strong>Applied Mathematics</strong> with a curriculum in <strong>Economics and Finance</strong> at <strong>Università degli studi di Verona</strong>, concluded with a thesis entitled <em>Deterministic and stochastic models for opinion making</em> with Professor <strong><a href="https://www.di.univr.it/?ent=persona&id=11481">Paolo Dai Pra</a></strong>.
 <br>
 Following that, I enrolled in the <strong>Applied Mathematics</strong> Master Program, where I focused on applications of AI.
 During my second year, I participated in the <strong>Erasmus+ Study</strong> programme at the <strong>University of Oslo</strong> (UiO) and the <strong>Erasmus+ Traineeship</strong> at the <strong>Bergische Universität Wuppertal</strong>, where I wrote my Master's Thesis entitled <em>Electricity Price Forecasting via statistical and deep learning approaches: the German case</em> under the supervision of Professor <strong><a href="https://ehrhardt.uni-wuppertal.de">Matthias Ehrhardt</a></strong>. The internship in Germany introduced me to the academic world, which turned out to be extremely interesting and inspiring.
