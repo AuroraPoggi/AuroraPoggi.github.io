@@ -15,7 +15,7 @@ My research focuses on Inverse Problem, High Dimensional Probability and Dynamic
 </p>
 
 <p>
-My studies started in 2017, attending the Bachelor Degree of <strong> Applied Mathematics </strong> with a curriculum in <strong> Economics and Finance </strong>. During my bachelor’s degree I followed several courses concerning Finance and Stochastic calculus; at the end I did a thesis concerning the latter entitled <em>Deterministic and stochastic models for opinion making</em> with Professor <strong> [Paolo Dai Pra](https://www.di.univr.it/?ent=persona&id=11481)  </strong>.
+My studies started in 2017, attending the Bachelor Degree of <strong> Applied Mathematics </strong> with a curriculum in <strong> Economics and Finance </strong>. During my bachelor’s degree I followed several courses concerning Finance and Stochastic calculus; at the end I did a thesis concerning the latter entitled <em>Deterministic and stochastic models for opinion making</em> with Professor <strong> <a href="https://www.di.univr.it/?ent=persona&id=11481"> Paolo Dai Pra</a> </strong>.
 <br>
 Following that, I enrolled in the <strong> Applied Mathematics </strong> Master Program, where I focused on AI applications.
 In addition, I took part in the <strong> Erasmus + Study </strong> program at the <strong> University of Oslo </strong> (UiO), where I attended the courses <em> Adaptive methods for data-based decision making </em> and <em> Interest Rate Modelling via SPDEs </em>.
