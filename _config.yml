@@ -31,10 +31,10 @@ author:
   email            : "aurorap@kth.se" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : https://arxiv.org/search/?query=aurora+poggi&searchtype=all&source=header
   googlescholar    : "https://scholar.google.com/citations?hl=it&user=u8M-fssAAAAJ"
   impactstory      : # URL
-  orcid            : # URL 
+  orcid            : https://orcid.org/0000-0001-6442-4468
   semantic         : # URL
   pubmed           : # URL 
   researchgate     : "https://www.researchgate.net/profile/Aurora-Poggi"
@@ -81,6 +81,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  preprint: 
+    title: 'Preprint'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
