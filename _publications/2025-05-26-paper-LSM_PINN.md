@@ -2,7 +2,7 @@
 title: "Data-driven multi-agent modelling of calcium interactions in cell culture: PINN vs Regularized Least-squares"
 collection: publications
 # category: conferences
-category: preprint
+category: books
 permalink: /publication/2025-05-26-paper-LSM_PINN
 excerpt: 'This paper is a methodology for characterization and performance analysis of calcium delivery in a family of cells.'
 date: 2025-05-26
