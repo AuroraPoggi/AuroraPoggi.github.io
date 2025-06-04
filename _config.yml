@@ -76,11 +76,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Preprint'
+    title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Preprint''    
   conferences:
-    title: 'Preprint'
+    title: 'Conference Papers'
   #preprint: 
   #  title: 'Preprint'
 
