@@ -62,7 +62,7 @@ The summer school has teachers and TAs Khemraj Shukla(Brown University, USA), Je
 <li>
 <b>Generative AI Summer School</b><br>
 <i>Norrköping, Sweden</i><br>
-Joint Summer School for students from Unite!, WASP and WASP-HS PhD programs on the topic of Generative AI. The program can be found [<a href="https://wasp-sweden.org/event/joint-summer-school-on-generative-ai-2024/" target="_blank">at the link</a>]
+Joint Summer School for students from Unite!, WASP and WASP-HS PhD programs on the topic of Generative AI. The program can be found [<a href="https://wasp-sweden.org/event/joint-summer-school-on-generative-ai-2024/" target="_blank">at the link</a>],
 <br> 12-16 August 2024.</li>
 
 <li>
@@ -86,7 +86,6 @@ Annual conference for PhD, Postdocs and Professors from WASP program,<br> 09-11 
 <b>ICCF2022: International Conference on Computational Finance</b><br>
 <i>Bergische Universität, Wuppertal, Germany</i><br>
 06-10 June 2022.</li>
-
 
 
 </ul>
