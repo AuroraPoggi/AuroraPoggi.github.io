@@ -12,7 +12,7 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 ## Submitted
 <ul>
 <li>
-A. Poggi, <b>G. A. D'Inverno</b>, H. Brismar, O. Öktem, M. Barreau, K. Morozovska. Data-driven multi-agent modelling of calcium interactions in cell culture: PINN vs Regularized Least-squares. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2505.20327" target="_blank">arXiv:2505.20327</a>]. <em>Under review</em>
+<b>A. Poggi</b>, G. A. D'Inverno, H. Brismar, O. Öktem, M. Barreau, K. Morozovska. Data-driven multi-agent modelling of calcium interactions in cell culture: PINN vs Regularized Least-squares. <em>arXiv</em>,  2025. [<a href="http://arxiv.org/abs/2505.20327" target="_blank">arXiv:2505.20327</a>]. <em>Under review</em>
 </li>
 
 </ul>
