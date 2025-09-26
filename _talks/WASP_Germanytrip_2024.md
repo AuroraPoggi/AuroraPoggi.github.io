@@ -9,5 +9,5 @@ location: "Kaiserslautern, Germany"
 ---
 
 
-
+I presented a poster titled <em> Takens Embedding Theory and Koopman Operator applied to biological systems</em> . 
 

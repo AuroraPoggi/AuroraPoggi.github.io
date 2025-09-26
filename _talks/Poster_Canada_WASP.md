@@ -8,4 +8,4 @@ date: 2023-09-25
 location: "Montreal, Canada"
 ---
 
-In the poster I presented the work done by Paquette's group based on the paper "High-dimensional limit of one-pass SGD on least squares". 
+In the poster I presented the work done by Paquette's group based on the paper <em> High-dimensional limit of one-pass SGD on least squares</em> . 
