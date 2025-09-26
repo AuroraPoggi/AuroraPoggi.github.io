@@ -279,7 +279,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single #talk
       author_profile: true
       share: true
 

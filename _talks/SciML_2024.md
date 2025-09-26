@@ -1,5 +1,5 @@
 ---
-title: "Scientific Machine Learning for Simulation and Inverse Modelling,"
+title: "Scientific Machine Learning for Simulation and Inverse Modelling"
 collection: talks
 type: "Participant"
 permalink: /talks/SciML_2024
