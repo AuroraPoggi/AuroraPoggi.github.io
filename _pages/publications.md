@@ -20,6 +20,8 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 
 ### Peer-reviewed journals
 <ul>
+<li>
+<b>A. Poggi</b>, Luca Di Persio, Matthias Ehrhardt. <em>Electricity Price Forecasting via statistical and deep learning approaches: the German case.</em>,  MDPI, 2023. 
 
 </ul>
 ### Conference Papers
