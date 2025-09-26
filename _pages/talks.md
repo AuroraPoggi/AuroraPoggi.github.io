@@ -13,7 +13,7 @@ author_profile: true
 <ul>
 <li>
 <b>YAMC2025</b>
-*University of Padova, Padova, Italy*
+* University of Padova, Padova, Italy *
 The Young Applied Mathematicians Conference will focus on Numerical Modeling, Numerical Analysis, Machine Learning, and Statistics. 
 I presented at a main track my work titled <em>Data-driven multi-agent modelling of calcium interactions in cell culture: PINN vs Regularized Least-Squares</em>,  22-26 September 2025.</li>
 
