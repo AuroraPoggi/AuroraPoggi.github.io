@@ -2,7 +2,7 @@
 title: "WASP Winter Conference"
 collection: talks
 type: "Poster"
-permalink: /talks/WASPwinter2026
+permalink: /talks/WASPwinter2026_2
 venue: "WASP Graduate School"
 date: 2026-01-15
 location: "Örebro, Sweden"
