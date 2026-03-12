@@ -25,13 +25,19 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 </li>
 
 </ul>
-<!--
+
 ### Conference Papers
 
 <ul>
+<li>
+E. Monti, K. Morozovska, <b>A. Poggi</b>, K. Shukla. <em>SEMI-LAGRANGIAN PHYSICS-INFORMED NEURAL
+NETWORKS (SL-PINNS) FOR SOLVING HYPERBOLIC
+PARTIAL DIFFERENTIAL EQUATIONS (PDES)</em>. AI&PDE workshop at ICLR, 2026. 
+</li>
 
 </ul>
 
+<!--
 ## Doctoral thesis
 <ul>
 
