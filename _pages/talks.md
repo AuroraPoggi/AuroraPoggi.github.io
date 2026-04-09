@@ -27,13 +27,14 @@ I presented at the minisyposium <em>XAIP: Explainable algorithms for inverse pro
 </ul>
 
 ## Poster Session
+<ul>
 <li>
 <b>WASP Winter Conference</b><br>
 <i>Örebro, Sweden</i><br>
 Annual conference for PhD, Postdocs and Professors from WASP program. 
 I presented a poster with title <em>Equation-free modelling of calcium dynamics</em>, <br>15-16 January 2026.</li>
 
-<ul>
+
 <li>
 <b>MSML2025</b><br>
 <i>University of Naples, Italy</i><br>
