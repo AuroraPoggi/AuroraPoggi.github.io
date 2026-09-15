@@ -12,7 +12,7 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 ## Submitted
 <ul>
 <li>
-<b>A. Poggi</b>, M. Martens, H. Brismar, O. Öktem, L. Palmisano.Equation free data-driven modelling of chaotic processes. <em>arXiv</em>,  2026. [<a href="https://arxiv.org/pdf/2609.08530" target="_blank">arXiv:2609.08530</a>]. <em>Submitted</em>
+<b>A. Poggi</b>, M. Martens, H. Brismar, O. Öktem, L. Palmisano. Equation free data-driven modelling of chaotic processes. <em>arXiv</em>,  2026. [<a href="https://arxiv.org/pdf/2609.08530" target="_blank">arXiv:2609.08530</a>]. <em>Submitted</em>
 </li>
 
 </ul>
