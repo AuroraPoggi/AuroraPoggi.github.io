@@ -16,9 +16,10 @@ My research focuses on Inverse Problem, High Dimensional Probability and Dynamic
 
 <p>
 💻 Are you planning to apply for resources on <a href="https://www.pdc.kth.se/hpc-services/computing-systems/dardel-hpc-system/about-the-dardel-system-1.1053338">Dardel HPC</a> but don't know how? Don't panic, <a href="https://puccigiulia.github.io">Giulia</a> and I made <a href="https://github.com/AuroraPoggi/Dardel_for_dummies">Dardel for Dummies</a>. 
-
+</p>
+<p>
 ✈️ Are you planning to go to a conference but don't have money for it? Check out <a href="https://github.com/AuroraPoggi/Funding_mathKTH"> Repo </a> to see if there are open calls for travel funding/scholarships. 
-
+</p>
 
 <br>
 ⛵️ I was on a research stay (September-December 2025) at <a href="https://mathlab.sissa.it">mathLab Group</a> (SISSA) in Trieste, Italy. 
