@@ -21,7 +21,7 @@ My research focuses on Inverse Problem, High Dimensional Probability and Dynamic
 ✈️ Are you planning to go to a conference but don't have money for it? Check out <a href="https://github.com/AuroraPoggi/Funding_mathKTH"> Repo </a> to see if there are open calls for travel funding/scholarships. 
 </p>
 
-<br>
+<p>
 ⛵️ I was on a research stay (September-December 2025) at <a href="https://mathlab.sissa.it">mathLab Group</a> (SISSA) in Trieste, Italy. 
 </p>
 <p>
