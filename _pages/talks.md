@@ -21,7 +21,8 @@ I presented at a main track my work titled <em>Data-driven multi-agent modelling
 <b>AIP2025</b><br>
 <i>FGV School of Applied Mathematics, Rio de Janeiro, Brazil</i><br>
 The Applied Inverse Problems (AIP) conferences are organized biannually. AIP have become the largest conference series in the field. 
-I presented at the minisyposium <em>XAIP: Explainable algorithms for inverse problems</em> my work titled <em>Data-driven multi-agent modelling of calcium interactions in cell culture</em>,<br> 28-01 July-August 2025.</li>
+I presented at the minisyposium <em>XAIP: Explainable algorithms for inverse problems</em> my work titled <em>Data-driven multi-agent modelling of calcium interactions in cell culture</em>. Cost of travel partially covered by The Knut and Alice Wallenberg Foundation’s Fund,<br> 28-01 July-August 2025.</li>
+
 
 
 </ul>
@@ -60,7 +61,14 @@ Annual study trip for PhD students from WASP program. In the poster I presented 
 
 
 ### Attended Summer School and Workshop
+
 <ul>
+<li>
+<b> International Conference on Machine Learning (ICML)</b><br>
+<i>COEX Convention & Exhibition Center, Seoul, South Korea</i><br>
+Attended the tutorials, main conference and Workshops. 
+<br>6-11 July 2026.</li>
+
 <li>
 <b>Physics-Informed Neural Networks Summer School</b><br>
 <i>KTH, Stockholm, Sweden</i><br>

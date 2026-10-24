@@ -22,7 +22,7 @@ My research focuses on Inverse Problem, High Dimensional Probability and Dynamic
 </p>
 
 <p>
-⛵️ I was on a research stay (September-December 2025) at <a href="https://mathlab.sissa.it">mathLab Group</a> (SISSA) in Trieste, Italy. 
+⛵️ I was on a research stay (September-December 2025) at <a href="https://mathlab.sissa.it">mathLab Group</a> (SISSA) in Trieste, Italy. This research stay was funded by Erasmus+ staff mobility program.
 </p>
 <p>
 <!---
